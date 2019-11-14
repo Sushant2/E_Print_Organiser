@@ -1,0 +1,69 @@
+body{
+    background: url("https://www.ci.camden.nj.us/wp-content/uploads/2019/03/blue-gradient-background.png");
+    background-repeat: no-repeat;
+}
+
+
+
+.fon{
+    font-family: 'KaushanScriptRegular';
+   font-weight: normal;
+   font-style: normal;
+}
+
+.jumbotron {
+  border: 0.08em solid black;
+  margin-top: 25%;
+}
+
+.fon0{
+    font-family: 'Lobster', cursive;
+}
+#fon1{
+    font-family: 'Lobster', cursive;
+}
+
+.fon2{
+    font-family: 'Lobster', cursive;
+    font-size: xx-large;
+    margin: auto;
+    text-align: center;
+}
+
+.img{
+    display: block;
+    height: 80px;
+    width: 80px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+}
+
+#stu{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+.bt{
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    margin-top:5%;
+    margin-bottom:0%;
+}
+
+.img1{
+    display: block;
+    border-radius: 20%;
+    height: 100px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
